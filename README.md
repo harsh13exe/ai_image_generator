@@ -1,17 +1,33 @@
-# ai_imgae_generator
+# AI Image Generator
 
-A new Flutter project.
+🎨 **AI Image Generator** is a Flutter application that lets you create stunning AI-generated images from your text prompts. Just enter your vision, tap **Generate**, and watch your idea come to life!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Generate images using AI from a text prompt
+- Save generated images to your device
+- Share your creations with others
+- Beautiful, clean UI
+- Works on Android devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ai_image_generator
+## 📸 Screenshots
+![ss1](https://github.com/user-attachments/assets/dc44d058-5234-4ad1-9618-2aee93b78928)
+![ss2](https://github.com/user-attachments/assets/59d400a9-212f-4ca8-ab42-8667cc12bfaa)
+
+
+> **Tip:**  
+> Save your screenshots in a folder called `screenshots` inside your project root, then update the image paths above.  
+
+---
+
+## 🚀 Getting Started
+
+Follow these instructions to run the app locally:
+
+```bash
+flutter pub get
+flutter run
